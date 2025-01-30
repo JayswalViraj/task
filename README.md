@@ -30,6 +30,9 @@ Please install the "Desktop development with C++" workload, including all of its
 In this project, I have implemented the following features:
 
 ✅ Local Notifications – Scheduled and managed notifications efficiently.
+
 ✅ Theme Management – Implemented light and dark mode support.
+
 ✅ Tablet & Mobile Handling – Ensured a responsive UI for both tablets and mobile devices.
+
 ✅ Local Database Integration – Used local storage for data persistence.
