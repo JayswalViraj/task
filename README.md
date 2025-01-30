@@ -1,16 +1,17 @@
 # task
 
-A new Flutter project.
+PS C:\Flutter Projects\task> flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 3.27.3, on Microsoft Windows [Version 10.0.19044.2251], locale en-IN)
+[√] Windows Version (Installed version of Windows is version 10 or higher)
+[√] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+[√] Chrome - develop for the web
+[X] Visual Studio - develop Windows apps
+X Visual Studio not installed; this is necessary to develop Windows apps.
+Download at https://visualstudio.microsoft.com/downloads/.
+Please install the "Desktop development with C++" workload, including all of its default components
+[√] Android Studio (version 2024.1)
+[√] VS Code (version 1.96.2)
+[√] Connected device (4 available)
+[√] Network resources
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
