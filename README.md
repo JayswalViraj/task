@@ -29,7 +29,7 @@ Please install the "Desktop development with C++" workload, including all of its
 
 In this project, I have implemented the following features:
 
-✅ Local Notifications – Scheduled and managed notifications efficiently.
+✅ Local Notifications – Scheduled and managed notifications efficiently.(need to set time and date)
 
 ✅ Theme Management – Implemented light and dark mode support.
 

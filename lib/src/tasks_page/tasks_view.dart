@@ -396,7 +396,7 @@ class CustomMobileView extends StatelessWidget {
                                                               .read(
                                                                   tasksProvider)
                                                               .selectedStatus ==
-                                                          "All"
+                                                          "Status All"
                                                       ? null
                                                       : ref
                                                           .read(tasksProvider)
@@ -405,7 +405,7 @@ class CustomMobileView extends StatelessWidget {
                                                               .read(
                                                                   tasksProvider)
                                                               .selectedPrioriti ==
-                                                          "All"
+                                                          "Priority All"
                                                       ? null
                                                       : ref
                                                           .read(tasksProvider)
